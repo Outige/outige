@@ -1,7 +1,7 @@
 ### Hi there I'm Tieg 👋
 [✨ personal website](https://tieg-app1.herokuapp.com/)  
 [✨ linkedin](https://www.linkedin.com/in/tieg-osullivan/)  
-[✨ email](mailto:tiegosullivanpsnl@gmail.com)
+[📫 email](mailto:tiegosullivanpsnl@gmail.com)
 
 <!--
 **Outige/outige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
