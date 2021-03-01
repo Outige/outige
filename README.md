@@ -3,6 +3,8 @@
 [✨ linkedin](https://www.linkedin.com/in/tieg-osullivan/)  
 [📫 email](mailto:tiegosullivanpsnl@gmail.com)
 
+[![Outige's github stats](https://github-readme-stats.vercel.app/api?username=outige)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Outige/outige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
