@@ -5,6 +5,8 @@
 
 [![Outige's github stats](https://github-readme-stats.vercel.app/api?username=outige)](https://github.com/anuraghazra/github-readme-stats)
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?outige" frameborder="0"></iframe>
+
 <!--
 **Outige/outige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
